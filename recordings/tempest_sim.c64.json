@@ -1,0 +1,9 @@
+{
+  "fs": 2048000.0,
+  "center_hz": 25225000.0,
+  "n": 13360,
+  "dtype": "complex64",
+  "source": "tempest_sim",
+  "pixel_clock": 25175000.0,
+  "payload": "TEMPTEST-PATTERN-OK"
+}

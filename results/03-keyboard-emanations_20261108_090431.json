@@ -1,0 +1,26 @@
+{
+  "lab": "03-keyboard-emanations",
+  "timestamp": "20261108_090431",
+  "secret": "meet at the old bridge at dawn",
+  "recovered": "MEEKGAKGKHEGKRDGFRIDGEGAKGDAGO",
+  "expected": "MEET AT THE OLD BRIDGE AT DAWN",
+  "char_accuracy": 0.5,
+  "sweep": [
+    {
+      "snr_db": 25,
+      "window_acc": 0.4411764705882353,
+      "n_test": 170
+    },
+    {
+      "snr_db": 15,
+      "window_acc": 0.21764705882352942,
+      "n_test": 170
+    },
+    {
+      "snr_db": 8,
+      "window_acc": 0.08108108108108109,
+      "n_test": 37
+    }
+  ],
+  "pass": false
+}

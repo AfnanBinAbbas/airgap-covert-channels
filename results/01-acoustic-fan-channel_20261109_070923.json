@@ -1,0 +1,58 @@
+{
+  "lab": "01-acoustic-fan-channel",
+  "timestamp": "20261109_070923",
+  "payload": "AIRGAP-ACOUSTIC-LAB-PING-01",
+  "sweep": [
+    {
+      "snr_db": 30,
+      "decode_success_rate": 1.0,
+      "mean_raw_ber": 0.0
+    },
+    {
+      "snr_db": 25,
+      "decode_success_rate": 1.0,
+      "mean_raw_ber": 0.0
+    },
+    {
+      "snr_db": 20,
+      "decode_success_rate": 1.0,
+      "mean_raw_ber": 0.0
+    },
+    {
+      "snr_db": 15,
+      "decode_success_rate": 1.0,
+      "mean_raw_ber": 0.0
+    },
+    {
+      "snr_db": 10,
+      "decode_success_rate": 1.0,
+      "mean_raw_ber": 0.0
+    },
+    {
+      "snr_db": 5,
+      "decode_success_rate": 1.0,
+      "mean_raw_ber": 0.0
+    },
+    {
+      "snr_db": 0,
+      "decode_success_rate": 1.0,
+      "mean_raw_ber": 0.0
+    }
+  ],
+  "final": {
+    "snr_db": 20,
+    "ok": true,
+    "payload": "AIRGAP-ACOUSTIC-LAB-PING-01",
+    "raw_ber": 0.0,
+    "n_bits": 438,
+    "stats": {
+      "fec": true,
+      "n_bits": 406,
+      "crc_ok": true,
+      "frame_len": 29
+    }
+  },
+  "final_snr_db": 20,
+  "success_rate_at_final_snr": 1.0,
+  "pass": true
+}

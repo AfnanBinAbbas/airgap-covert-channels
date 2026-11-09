@@ -1,0 +1,26 @@
+{
+  "lab": "03-keyboard-emanations",
+  "timestamp": "20261109_064817",
+  "secret": "meet at the old bridge at dawn",
+  "recovered": "MEET AT THE OCD PRIDGE AT DAWN",
+  "expected": "MEET AT THE OLD BRIDGE AT DAWN",
+  "char_accuracy": 0.9333333333333333,
+  "sweep": [
+    {
+      "snr_db": 25,
+      "window_acc": 1.0,
+      "n_test": 170
+    },
+    {
+      "snr_db": 15,
+      "window_acc": 1.0,
+      "n_test": 170
+    },
+    {
+      "snr_db": 8,
+      "window_acc": 0.9941176470588236,
+      "n_test": 170
+    }
+  ],
+  "pass": true
+}

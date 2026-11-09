@@ -1,0 +1,96 @@
+{
+  "lab": "04-gpu-display-fm",
+  "timestamp": "20261108_091352",
+  "payload": "AIRHOPPER-FM-LAB-PING-04",
+  "sweep": [
+    {
+      "snr_db": 25,
+      "cfo_hz": 0.0,
+      "decode_success_rate": 1.0
+    },
+    {
+      "snr_db": 25,
+      "cfo_hz": 500.0,
+      "decode_success_rate": 1.0
+    },
+    {
+      "snr_db": 25,
+      "cfo_hz": -800.0,
+      "decode_success_rate": 1.0
+    },
+    {
+      "snr_db": 20,
+      "cfo_hz": 0.0,
+      "decode_success_rate": 1.0
+    },
+    {
+      "snr_db": 20,
+      "cfo_hz": 500.0,
+      "decode_success_rate": 1.0
+    },
+    {
+      "snr_db": 20,
+      "cfo_hz": -800.0,
+      "decode_success_rate": 1.0
+    },
+    {
+      "snr_db": 15,
+      "cfo_hz": 0.0,
+      "decode_success_rate": 1.0
+    },
+    {
+      "snr_db": 15,
+      "cfo_hz": 500.0,
+      "decode_success_rate": 1.0
+    },
+    {
+      "snr_db": 15,
+      "cfo_hz": -800.0,
+      "decode_success_rate": 1.0
+    },
+    {
+      "snr_db": 10,
+      "cfo_hz": 0.0,
+      "decode_success_rate": 0.6666666666666666
+    },
+    {
+      "snr_db": 10,
+      "cfo_hz": 500.0,
+      "decode_success_rate": 1.0
+    },
+    {
+      "snr_db": 10,
+      "cfo_hz": -800.0,
+      "decode_success_rate": 1.0
+    },
+    {
+      "snr_db": 5,
+      "cfo_hz": 0.0,
+      "decode_success_rate": 0.0
+    },
+    {
+      "snr_db": 5,
+      "cfo_hz": 500.0,
+      "decode_success_rate": 0.0
+    },
+    {
+      "snr_db": 5,
+      "cfo_hz": -800.0,
+      "decode_success_rate": 0.0
+    }
+  ],
+  "final": {
+    "snr_db": 20,
+    "cfo_hz": 300.0,
+    "ok": true,
+    "payload": "AIRHOPPER-FM-LAB-PING-04",
+    "stats": {
+      "fec": true,
+      "n_bits": 364,
+      "crc_ok": true,
+      "frame_len": 26,
+      "n_rx_bits": 412
+    }
+  },
+  "pass": true
+}

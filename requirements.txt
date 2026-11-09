@@ -1,0 +1,5 @@
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+# Optional live-RX (install when RTL-SDR present):
+# pyrtlsdr>=0.3.0

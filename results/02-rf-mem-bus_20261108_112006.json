@@ -1,0 +1,72 @@
+{
+  "lab": "02-rf-mem-bus",
+  "timestamp": "20261108_112006",
+  "payload": "MEMBUS-RF-LAB-PING-02",
+  "sweep": [
+    {
+      "mod": "ask",
+      "snr_db": 20,
+      "decode_success_rate": 1.0
+    },
+    {
+      "mod": "ask",
+      "snr_db": 15,
+      "decode_success_rate": 1.0
+    },
+    {
+      "mod": "ask",
+      "snr_db": 10,
+      "decode_success_rate": 1.0
+    },
+    {
+      "mod": "ask",
+      "snr_db": 5,
+      "decode_success_rate": 1.0
+    },
+    {
+      "mod": "ask",
+      "snr_db": 0,
+      "decode_success_rate": 1.0
+    },
+    {
+      "mod": "bpsk",
+      "snr_db": 20,
+      "decode_success_rate": 1.0
+    },
+    {
+      "mod": "bpsk",
+      "snr_db": 15,
+      "decode_success_rate": 1.0
+    },
+    {
+      "mod": "bpsk",
+      "snr_db": 10,
+      "decode_success_rate": 1.0
+    },
+    {
+      "mod": "bpsk",
+      "snr_db": 5,
+      "decode_success_rate": 1.0
+    },
+    {
+      "mod": "bpsk",
+      "snr_db": 0,
+      "decode_success_rate": 1.0
+    }
+  ],
+  "final": {
+    "snr_db": 15,
+    "mod": "ask",
+    "ok": true,
+    "payload": "MEMBUS-RF-LAB-PING-02",
+    "stats": {
+      "fec": true,
+      "n_bits": 322,
+      "crc_ok": true,
+      "frame_len": 23,
+      "mod": "ask",
+      "n_rx_bits": 370
+    }
+  },
+  "pass": true
+}
